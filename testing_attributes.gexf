@@ -3,6 +3,9 @@
   <graph defaultedgetype="undirected" mode="static">
     <attributes class="edge" mode="static">
       <attribute id="0" title="recalculated_time" type="double" />
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
     </attributes>
     <nodes>
       <node id="8a8080e36339327801636e3b2bfc6496" label="8a8080e36339327801636e3b2bfc6496">
